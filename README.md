@@ -24,8 +24,8 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/gabriela-garcia).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-php
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGJffdON9p_ww/learning-public-crop_675_1200/0/1705655238040?e=2147483647&v=beta&t=WZkEMeA7zwr7vtn3CrrzD7hUP9TeabZQ2klkMEiFdBk
 
 
 [1]: # (End of ES-Instruction ###############################################################################################)
